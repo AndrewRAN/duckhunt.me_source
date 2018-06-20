@@ -7,19 +7,19 @@ categories: []
 tags: []
 ---
 
-You can buy objects with the command `dh!shop [item number] [possible arguments, such as the @target nickname]`
-You need to have enough exp to buy an item.
+Вы можете совершать покупки с помощью команды `dh!shop [номер предмета] [параметр (например, имя цели)]`
+Чтобы купить что-то, у вас должно быть некоторое количество очков опыта.
 
 {{< table >}}
-|Shop ID|Item name|Description|Exp cost|
+|Номер предмета|Название|Описание|Стоимость|
 |--- |--- |--- |--- |
-|1|Extra bullet|One bullet is added directly into the gun chamber.|7|
-|2|Extra clip|One clip is added to your stock.|13|
-|3|AP ammo (antiblindage)|Damage x2 for 24h. Helps kill super ducks.|15|
-|4|Explosive ammo|Damage x3 for 24h. Helps kill super ducks.|25|
-|5|Repurchase confiscated gun|Allows you to get your gun back without having to wait.|40|
-|6|Grease|Reduces the odds of jamming by 50% for 24h and protects from sand once.|8|
-|7|Sight|Improves accuracy for the next shot by (100 - current accuracy) / 3.|6|
+|1|Пуля|Одна пуля добавляется в текущий магазин.|7|
+|2|Магазин|Один магазин добавляется в запас.|13|
+|3|Бронебойные патроны|Урон увеличен в 2 раза на сутки. С ними проще убивать суперуток.|15|
+|4|Разрывные патроны|Урон увеличен в 3 раза на сутки. С ними проще убивать суперуток.|25|
+|5|Ружьё|Возвращает вам ваше ружьё, если оно было конфисковано.|40|
+|6|Смазка|Уменьшает вероятность заклинивания ружья на 50% и один раз защищает от песка.|8|
+|7|Прицел|Увеличивает точность следующего выстрела по формуле (100 - текущая точность) / 3.|6|
 |8|Infrared detector|Locks the trigger when there is no duck, thus helping you to save bullets. Lasts for 24h, blocks 6 times.|15|
 |9|Silencer|Muffles the noise from your gun for 24h so ducks don't get frightened and fly away.|5|
 |10|Four-leaf clover|Win a random XP bonus for each duck you shoot for 24h. Bonus can be from 1 to 10 and is determined at purchase.|13|
