@@ -16,7 +16,7 @@ tags: []
 
 ### Как установить бота?
 
-всё подробно описано [здесь](https://duckhunt.me/install-duckhunt).
+Всё подробно описано [здесь](https://duckhunt.me/install-duckhunt).
 
  
 
